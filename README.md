@@ -17,6 +17,8 @@
 - Popups
 
 **And more to come!**
+### And best of all...
+## All classes/objects are compatible with the main menu and the game!
 
 #  
 
