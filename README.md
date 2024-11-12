@@ -23,3 +23,5 @@
 ### This API is fully functional and everything works as it would in-game 
 ### (given that the API is used properly)
 # Give it a go!
+
+![image](https://github.com/user-attachments/assets/50af8bc8-07fe-4778-8baf-b3aa80366a75) ![image](https://github.com/user-attachments/assets/7824a357-db39-4208-bd32-c4861f0098bf)
