@@ -43,7 +43,9 @@ namespace PyAPIExamples.Examples {
 
             var Tab3 = Pg3.AddTab("Tab 1");
             Tab3.AddButton("Test", "Test", () => {
+                Popup.StandardPrompt("TestTitle", () => {
 
+                });
             });
 
             var Tab4 = Pg3.AddTab("Tab 2");
